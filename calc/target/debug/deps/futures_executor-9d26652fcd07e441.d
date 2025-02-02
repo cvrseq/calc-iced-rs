@@ -1,0 +1,9 @@
+/Users/aleksandrsuslin/Desktop/calc-iced-rs/calc/target/debug/deps/libfutures_executor-9d26652fcd07e441.rmeta: /Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-executor-0.3.31/src/lib.rs /Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-executor-0.3.31/src/local_pool.rs /Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-executor-0.3.31/src/thread_pool.rs /Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-executor-0.3.31/src/unpark_mutex.rs /Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-executor-0.3.31/src/enter.rs
+
+/Users/aleksandrsuslin/Desktop/calc-iced-rs/calc/target/debug/deps/futures_executor-9d26652fcd07e441.d: /Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-executor-0.3.31/src/lib.rs /Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-executor-0.3.31/src/local_pool.rs /Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-executor-0.3.31/src/thread_pool.rs /Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-executor-0.3.31/src/unpark_mutex.rs /Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-executor-0.3.31/src/enter.rs
+
+/Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-executor-0.3.31/src/lib.rs:
+/Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-executor-0.3.31/src/local_pool.rs:
+/Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-executor-0.3.31/src/thread_pool.rs:
+/Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-executor-0.3.31/src/unpark_mutex.rs:
+/Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-executor-0.3.31/src/enter.rs:

@@ -1,0 +1,9 @@
+/Users/aleksandrsuslin/Desktop/calc-iced-rs/calc/target/debug/deps/libdark_light-4233f9dfca65140c.rmeta: /Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dark-light-2.0.0/src/lib.rs /Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dark-light-2.0.0/src/error.rs /Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dark-light-2.0.0/src/mode.rs /Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dark-light-2.0.0/src/platforms/mod.rs /Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dark-light-2.0.0/src/platforms/macos.rs
+
+/Users/aleksandrsuslin/Desktop/calc-iced-rs/calc/target/debug/deps/dark_light-4233f9dfca65140c.d: /Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dark-light-2.0.0/src/lib.rs /Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dark-light-2.0.0/src/error.rs /Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dark-light-2.0.0/src/mode.rs /Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dark-light-2.0.0/src/platforms/mod.rs /Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dark-light-2.0.0/src/platforms/macos.rs
+
+/Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dark-light-2.0.0/src/lib.rs:
+/Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dark-light-2.0.0/src/error.rs:
+/Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dark-light-2.0.0/src/mode.rs:
+/Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dark-light-2.0.0/src/platforms/mod.rs:
+/Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dark-light-2.0.0/src/platforms/macos.rs:

@@ -1,0 +1,10 @@
+/Users/aleksandrsuslin/Desktop/calc-iced-rs/calc/target/debug/deps/libslotmap-3a6d869e436ba977.rmeta: /Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.7/src/lib.rs /Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.7/src/basic.rs /Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.7/src/dense.rs /Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.7/src/hop.rs /Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.7/src/secondary.rs /Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.7/src/util.rs
+
+/Users/aleksandrsuslin/Desktop/calc-iced-rs/calc/target/debug/deps/slotmap-3a6d869e436ba977.d: /Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.7/src/lib.rs /Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.7/src/basic.rs /Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.7/src/dense.rs /Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.7/src/hop.rs /Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.7/src/secondary.rs /Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.7/src/util.rs
+
+/Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.7/src/lib.rs:
+/Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.7/src/basic.rs:
+/Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.7/src/dense.rs:
+/Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.7/src/hop.rs:
+/Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.7/src/secondary.rs:
+/Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.7/src/util.rs:
